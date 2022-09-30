@@ -1,0 +1,15 @@
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\bin\Debug\net6.0\Centrifuge.exe
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\bin\Debug\net6.0\Centrifuge.deps.json
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\bin\Debug\net6.0\Centrifuge.runtimeconfig.json
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\bin\Debug\net6.0\Centrifuge.dll
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\bin\Debug\net6.0\Centrifuge.pdb
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.csproj.AssemblyReference.cache
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.AssemblyInfoInputs.cache
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.AssemblyInfo.cs
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.csproj.CoreCompileInputs.cache
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.dll
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\refint\Centrifuge.dll
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.pdb
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\Centrifuge.genruntimeconfig.cache
+C:\Users\LovishGupta\Desktop\c#\Centrifuge\Centrifuge\obj\Debug\net6.0\ref\Centrifuge.dll

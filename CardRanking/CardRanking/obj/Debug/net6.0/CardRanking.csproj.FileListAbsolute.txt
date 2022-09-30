@@ -1,0 +1,15 @@
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.csproj.AssemblyReference.cache
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.AssemblyInfoInputs.cache
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.AssemblyInfo.cs
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.csproj.CoreCompileInputs.cache
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\bin\Debug\net6.0\CardRanking.exe
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\bin\Debug\net6.0\CardRanking.deps.json
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\bin\Debug\net6.0\CardRanking.runtimeconfig.json
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\bin\Debug\net6.0\CardRanking.dll
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\bin\Debug\net6.0\CardRanking.pdb
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.dll
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\refint\CardRanking.dll
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.pdb
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\CardRanking.genruntimeconfig.cache
+C:\Users\LovishGupta\Desktop\c#\CardRanking\CardRanking\obj\Debug\net6.0\ref\CardRanking.dll

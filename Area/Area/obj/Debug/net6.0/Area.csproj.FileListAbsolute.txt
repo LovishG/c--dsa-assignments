@@ -1,0 +1,15 @@
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\LovishGupta\Desktop\c#\Area\Area\bin\Debug\net6.0\Area.exe
+C:\Users\LovishGupta\Desktop\c#\Area\Area\bin\Debug\net6.0\Area.deps.json
+C:\Users\LovishGupta\Desktop\c#\Area\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+C:\Users\LovishGupta\Desktop\c#\Area\Area\bin\Debug\net6.0\Area.dll
+C:\Users\LovishGupta\Desktop\c#\Area\Area\bin\Debug\net6.0\Area.pdb
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.dll
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\refint\Area.dll
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.pdb
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+C:\Users\LovishGupta\Desktop\c#\Area\Area\obj\Debug\net6.0\ref\Area.dll

@@ -1,0 +1,15 @@
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\bin\Debug\net6.0\lookAndSay.exe
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\bin\Debug\net6.0\lookAndSay.deps.json
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\bin\Debug\net6.0\lookAndSay.runtimeconfig.json
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\bin\Debug\net6.0\lookAndSay.dll
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\bin\Debug\net6.0\lookAndSay.pdb
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.csproj.AssemblyReference.cache
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.AssemblyInfoInputs.cache
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.AssemblyInfo.cs
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.csproj.CoreCompileInputs.cache
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.dll
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\refint\lookAndSay.dll
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.pdb
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\lookAndSay.genruntimeconfig.cache
+C:\Users\LovishGupta\Desktop\c#\lookAndSay\lookAndSay\obj\Debug\net6.0\ref\lookAndSay.dll
